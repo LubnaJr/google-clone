@@ -27,7 +27,6 @@ font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,
     flex-direction:column;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    height: 100vh; /* Full viewport height */
     border: 10px;
 }
 .main img{
